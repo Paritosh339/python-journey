@@ -14,4 +14,4 @@ for num in list1:
     if num > largest:
         largest = num
 
-print(f"Your greatest number is: {largest}")
+print(f"Your largest number is: {largest}")
