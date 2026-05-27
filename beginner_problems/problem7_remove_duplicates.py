@@ -1,4 +1,5 @@
 #problem 7 remove duplicates without using set()
+#Remove duplicates from a list
 
 print("Welcome to duplicate remove system")
 
