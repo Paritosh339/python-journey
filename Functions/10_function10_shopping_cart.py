@@ -1,3 +1,5 @@
+#Add function10 shopping cart
+
 def shooping_cart(prices):
     
     total = 0
