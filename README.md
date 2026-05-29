@@ -1,4 +1,4 @@
-# python-journey
+# python-journey 
 A collection of Python practice problems I am solving  as I learn Python from scratch.
 
 | # | Problem | Topic |
@@ -7,7 +7,7 @@ A collection of Python practice problems I am solving  as I learn Python from sc
 | 2 | Reverse a String | Loops, Strings |
 | 3 | Count Vowels | Loops, Strings, Conditions |
 | 4 | FizzBuzz | Loops, Conditions, Modulus |
-| 5 | Find Largest Number | Loops, Lists, Conditions |
+| 5 | Find Largest Number | Loops, Lists, Conditions  |
 | 6 | Palindrome Checker | Loops, Strings |
 | 7 | Remove Duplicates | Loops, Lists |
 | 8 | Simple Calculator | While loop, Break |
